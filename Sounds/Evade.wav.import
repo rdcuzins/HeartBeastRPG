@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Evade.wav-cd612618661f05b5e39dccebc8901a0b.sample"
+path="res://.import/Evade.wav-7cb14865d5cf5c4f4df33ed6342cdef6.sample"
 
 [deps]
 
-source_file="res://Music and Sounds/Evade.wav"
-dest_files=[ "res://.import/Evade.wav-cd612618661f05b5e39dccebc8901a0b.sample" ]
+source_file="res://Sounds/Evade.wav"
+dest_files=[ "res://.import/Evade.wav-7cb14865d5cf5c4f4df33ed6342cdef6.sample" ]
 
 [params]
 
